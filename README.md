@@ -13,5 +13,4 @@
 </div><br/>
 
 
-![imagem](https://github.com/m4r1nho/m4r1nho/simple.jpeg)
-<img scr=https:"//github.com/m4r1nho/m4r1nho/simple.jpeg">
+![imagem](https://github.com/m4r1nho/m4r1nho/blob/main/simple.jpeg)
