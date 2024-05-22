@@ -13,5 +13,5 @@
 </div><br/>
 
 
-<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simple.jpeg" alt="Imagem" width="600px" height="200px">
+<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simple.jpeg" alt="Imagem" width="400px" height="200px">
 
