@@ -13,5 +13,5 @@
 </div><br/>
 
 
-<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simplee.jpeg" alt="Imagem" width="300px" height="200px">
+<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simplee.jpeg" alt="Imagem" width="350px" height="250px">
 
