@@ -13,7 +13,5 @@
 </div><br/>
 
 
-![imagem](https://github.com/m4r1nho/m4r1nho/blob/main/simple.jpeg)
-
-<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simple.jpeg" alt="Imagem" width="50%" height="50%">
+<img src="https://github.com/m4r1nho/m4r1nho/raw/main/simple.jpeg" alt="Imagem" width="300px" height="100px">
 
